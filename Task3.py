@@ -52,5 +52,5 @@ def hanoi_tower_func(n):
     print("\nФінальний стан веж:")
     print(pegs)
 
-# Виклик функції для 3 дисків
+# Виклик функції для 3 дисків 
 hanoi_tower_func(3)
